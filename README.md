@@ -2,8 +2,6 @@
 
 A modern e-commerce web application built with React, featuring a clean UI, shopping cart functionality, and integration with the Fake Store API.
 
-![E-Commerce Store Screenshot](screenshot.png)
-
 ## 🚀 Features
 
 - **Product Listing**: Browse through products with images, descriptions, and prices
@@ -74,19 +72,6 @@ src/
 ├── App.jsx           # Main app component
 └── main.jsx         # Entry point
 ```
-
-## 🎨 Styling
-
-The project uses Tailwind CSS for styling with a custom configuration:
-- Custom color scheme with primary green (#4CAF50)
-- Responsive design breakpoints
-- Custom component classes
-
-## 🔄 State Management
-
-- **React Query**: Handles API data fetching and caching
-- **React Context**: Manages shopping cart state
-- **Local Storage**: Persists cart data
 
 ## 🚀 Deployment
 
